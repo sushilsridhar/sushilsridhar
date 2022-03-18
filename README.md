@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<!--![drzola](https://user-images.githubusercontent.com/16437905/159061780-6a2c3bec-d52a-4a7d-91d8-46cd94a3f99f.jpg) -->
-
-![frontCover](https://user-images.githubusercontent.com/16437905/159061836-1766f481-435b-4206-b8f5-990198ce0e6b.jpg)
+![drzola](https://user-images.githubusercontent.com/16437905/159061780-6a2c3bec-d52a-4a7d-91d8-46cd94a3f99f.jpg)
 
 
 
