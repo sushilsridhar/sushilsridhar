@@ -2,7 +2,7 @@
 
 It can be as simple as leaving behind what we know.  
 
-Inspired by Dr.Zola, a fictional character of marvel, who's body could not be saved by science, however his mind was worth saving in crores of memory banks of a mainframe computer.
+> Inspired by Dr.Zola, a fictional character of marvel, who's body could not be saved by science, however his mind was worth saving in crores of memory banks of a mainframe computer.
 
 
 ![drzola1](https://user-images.githubusercontent.com/16437905/159063270-6b46d564-fac8-4e84-8e61-ae9d1c148b65.png)
